@@ -11,7 +11,7 @@ public class regular {
 	
 	public static void main(String[] args) {
 			s.add("my name is gzb");
-			r.add("gzb");
+			r.add(".gzb.");
 			
 			b = s.get(0).matches(r.get(0));
 			System.out.println(" " + b);
